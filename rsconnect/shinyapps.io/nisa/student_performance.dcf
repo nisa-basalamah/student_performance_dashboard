@@ -1,1 +1,12 @@
-
+name: student_performance
+title: student_performance
+username:
+account: nisa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3433162
+bundleId: 4036484
+url: https://nisa.shinyapps.io/student_performance/
+when: 1609188888.08514
+asMultiple: FALSE
+asStatic: FALSE
